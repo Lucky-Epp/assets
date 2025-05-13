@@ -1,0 +1,11 @@
+{
+    "name": "Lucky Thor",
+    "symbol": "LUCKYTHOR",
+    "type": "BEP20",
+    "decimals": 18,
+    "description": "Meme-powered luck meets the hammer of Thor. $LUCKYTHOR is here to strike gold!",
+    "website": "https://linktr.ee/luckye",
+    "explorer": "https://bscscan.com/token/0x400868219b2322d4e01f80ab3569c0638d4176b7",
+    "status": "active",
+    "id": "0x400868219b2322d4e01f80ab3569c0638d4176b7"
+}
